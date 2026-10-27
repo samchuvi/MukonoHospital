@@ -10,7 +10,7 @@ public class Doctor extends MedicalStaff {
     @Override
     public void performDuties() {
         System.out.println(
-                "Duty: Diagnosing patients and prescribing treatment."
+                "Duty: Diagnosing patients, ordering tests and prescribing treatment."
         );
     }
 }
