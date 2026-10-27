@@ -21,3 +21,7 @@ public abstract class MedicalStaff {
 
     public abstract void performDuties();
 }
+
+// Abstract parent class for all medical staff.
+// It defines common staff details and requires
+// each subclass to implement its own duties.
