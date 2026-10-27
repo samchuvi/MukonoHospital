@@ -1,0 +1,29 @@
+========================================
+ MUKONO HOSPITAL STAFF MANAGEMENT SYSTEM
+========================================
+
+----------------------------------------
+Employee ID: M001
+Department: General Medicine
+Working Hours: 8
+Duty: Diagnosing patients, ordering tests and prescribing treatment.
+
+----------------------------------------
+Employee ID: M002
+Department: Emergency
+Working Hours: 8
+Duty: Providing nursing care, administering medication and monitoring patients.
+
+----------------------------------------
+Employee ID: M003
+Department: Pharmacy
+Working Hours: 7
+Duty: Dispensing prescribed medicines and advising patients on their proper use.
+
+----------------------------------------
+Employee ID: M004
+Department: Laboratory
+Working Hours: 8
+Duty: Conducting laboratory tests, analyzing samples and reporting results to doctors.
+
+System completed successfully. All staff duties displayed.
