@@ -10,7 +10,7 @@ public class LaboratoryTechnician extends MedicalStaff {
     @Override
     public void performDuties() {
         System.out.println(
-                "Duty: Conducting laboratory tests and analyzing samples."
+                "Duty: Conducting laboratory tests, analyzing samples and reporting results to doctors."
         );
     }
 }
