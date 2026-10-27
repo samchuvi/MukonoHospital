@@ -10,7 +10,7 @@ public class Nurse extends MedicalStaff {
     @Override
     public void performDuties() {
         System.out.println(
-                "Duty: Providing nursing care and monitoring patients."
+                "Duty: Providing nursing care, administering medication and monitoring patients."
         );
     }
 }
