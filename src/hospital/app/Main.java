@@ -28,6 +28,6 @@ public class Main {
             staff.performDuties();
         }
 
-        System.out.println("\nSystem completed successfully.");
+        System.out.println("\nSystem completed successfully. All staff duties displayed.");
     }
 }
