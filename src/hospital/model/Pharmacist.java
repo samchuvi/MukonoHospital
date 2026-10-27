@@ -10,7 +10,7 @@ public class Pharmacist extends MedicalStaff {
     @Override
     public void performDuties() {
         System.out.println(
-                "Duty: Dispensing medicines and advising on their proper use."
+                "Duty: Dispensing prescribed medicines and advising patients on their proper use."
         );
     }
 }
